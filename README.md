@@ -1,4 +1,5 @@
-- Донаты: https://donate.qiwi.com/payin/comerc
+- Youtube: https://www.youtube.com/user/akaassa73
 - Исходники: https://github.com/comerc/minsk8
+- Донаты: https://donate.qiwi.com/payin/comerc
 - Плейлист: https://minsk8.page.link/iu3d
 - Телега: https://t.me/AndrewKachanov
