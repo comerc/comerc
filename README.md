@@ -1,4 +1,3 @@
-- Youtube: https://www.youtube.com/user/akaassa73
 - Донаты: https://donate.qiwi.com/payin/comerc
 - Исходники: https://github.com/comerc/minsk8
 - Плейлист: https://minsk8.page.link/iu3d
