@@ -1,5 +1,5 @@
 
-- Исходники https://github.com/comerc/minsk8
+- Исходники: https://github.com/comerc/minsk8
 - Плейлист: https://minsk8.page.link/playlist
 - Телега: https://t.me/flutter_master_ru
 - E-Mail: andrew.kachanov@gmail.com
