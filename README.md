@@ -1,6 +1,5 @@
 
-- Исходники: https://github.com/comerc/minsk8
-- Плейлист: https://minsk8.page.link/playlist
+- YouTube (канал): https://www.youtube.com/akaassa73
 - Телега (группа): https://t.me/flutter_master_ru
 - E-Mail: andrew.kachanov@gmail.com
 
