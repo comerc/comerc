@@ -1,4 +1,6 @@
 
+- [Наймите меня - резюме](https://github.com/comerc/flutter_idiomatic/blob/main/RESUME.pdf)
+- [Сопроводительное письмо](https://github.com/comerc/flutter_idiomatic/blob/main/COVER_LETTER.md)
 - YouTube (канал): https://www.youtube.com/akaassa73
 - Телега (группа): https://t.me/flutter_master_ru
 - E-Mail: andrew.kachanov@gmail.com
