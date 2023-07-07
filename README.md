@@ -1,5 +1,4 @@
-
-- Наймите меня: [RESUME.pdf](https://github.com/comerc/flutter_idiomatic/blob/main/RESUME.pdf)
+- Наймите меня: [резюме](./CV_KACHANOV.pdf)
 - YouTube (канал): [#кодеротбога](https://www.youtube.com/akaassa73)
 - Телега (группа): [flutter_master_ru](https://t.me/flutter_master_ru)
 - E-Mail: andrew.kachanov@gmail.com
