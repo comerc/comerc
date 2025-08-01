@@ -8,4 +8,4 @@
 - лайв-кодинг в Ютубе: 2100 видео, 3300 подписчиков
 - широкий релевантный опыт разработки на стеке Golang+React+Flutter
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=comerc&count_private=true&theme=default&show_icons=true)](https://github.com/comerc)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=comerc&count_private=true&theme=default&show_icons=true&hide_border=true)](https://github.com/comerc)
