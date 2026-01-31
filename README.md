@@ -6,7 +6,7 @@
 - проекты для портфолио на Golang:
   - [yandex](https://github.com/comerc/yandex) - коллекция секретов для собеса
   - [budva43](https://github.com/comerc/budva43) - телеграм-форвардер
-  - [mfm](https://github.com/comerc/mfm) - модерация взрослого контента 
+  - [mfm](https://github.com/comerc/mfm) - ИИ-модерация взрослого контента 
   - [bdd](https://github.com/comerc/bdd) - про тесты через BDD
 - лайв-кодинг в Ютубе [#кодеротбога](https://www.youtube.com/akaassa73): 2200 видео, 3400 подписчиков
 - широкий релевантный опыт разработки на стеке Golang+React+Flutter
