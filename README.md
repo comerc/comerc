@@ -7,7 +7,7 @@
   - [CodeRun Winter Challenge](https://github.com/comerc/yandex-2025-winter) - [7 место](https://coderun.yandex.ru/seasons/2025-winter/tracks/common/rating?language=go)
   - [level85](https://github.com/pure-golang/level85) - тюнинг ИИ-шечки для вайбкодинга
   - [yandex](https://github.com/comerc/yandex) - коллекция секретов для собеса
-  - [budva43](https://github.com/comerc/budva43) - телеграм-форвардер ([new version](https://github.com/pure-golang/budva))
+  - [budva](https://github.com/pure-golang/budva) - телеграм-форвардер ([old version](https://github.com/comerc/budva43))
   - [mfm](https://github.com/comerc/mfm) - ИИ-модерация взрослого контента 
   - [bdd](https://github.com/comerc/bdd) - про тесты через BDD
 - лайв-кодинг в Ютубе [#кодеротбога](https://www.youtube.com/akaassa73): 2200 видео, 3400 подписчиков
