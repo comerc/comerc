@@ -5,6 +5,7 @@
 
 - проекты для портфолио на Golang:
   - [CodeRun Winter Challenge](https://github.com/comerc/yandex-2025-winter) - [7 место](https://coderun.yandex.ru/seasons/2025-winter/tracks/common/rating?language=go)
+  - [monorepo](https://github.com/comerc/monorepo) - "правильный" шаблон проекта
   - [level85](https://github.com/pure-golang/level85) - тюнинг ИИ-шечки для вайбкодинга
   - [yandex](https://github.com/comerc/yandex) - коллекция секретов для собеса
   - [budva](https://github.com/pure-golang/budva) - телеграм-форвардер ([old version](https://github.com/comerc/budva43))
